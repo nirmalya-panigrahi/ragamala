@@ -53,7 +53,3 @@ flowchart TD
    ```bash
    npm run build
    ```
-
-## Deployment
-
-Automated deployment to GitHub Pages is configured via `.github/workflows/deploy.yml` on pushes to `main`. The workflow runs TypeScript checks, Vitest + React Testing Library tests, and `vite build` with `VITE_BASE_PATH` resolved to the repository path.
