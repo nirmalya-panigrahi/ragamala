@@ -10,7 +10,7 @@ export default defineConfig(() => {
     (process.env.GITHUB_ACTIONS === 'true' ? '/astha-prahar/' : '/');
 
   return {
-    base,
+    base: '/astha-prahar/',
     plugins: [
       react(),
       tailwindcss(),
