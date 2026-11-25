@@ -1,0 +1,270 @@
+{
+  "project": "RaagChakra — A 24-Hour Indian Classical Raga Clock",
+  "note_for_builder": "All direct_image_url and direct_audio_url values use Wikimedia Commons Special:FilePath links. Display credit and license fields for every item.",
+  "prahars": [
+    {
+      "id": 1,
+      "prahar_name": "Pratham Prahar (Dawn / Sandhi Prakash)",
+      "time_range": "04:00 - 07:00",
+      "start_hour": 4,
+      "end_hour": 7,
+      "primary_raga": "Lalit",
+      "alternate_ragas": ["Bhairav", "Nat Bhairav", "Ahir Bhairav", "Bibhas"],
+      "thaat": "Purvi",
+      "vadi_samvadi": "Ma / Sa",
+      "mood_rasa": "Devotional, grave, contemplative, awakening",
+      "artwork": {
+        "title": "Bhairava Raga, Ragamala, Chunar, 1591",
+        "school_origin": "Mughal / Chunar (near Varanasi), 1591",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Bhairava_raga,_Ragamala,_Chunar,_1591.jpg",
+        "direct_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhairava_raga,_Ragamala,_Chunar,_1591.jpg",
+        "license": "Public Domain (PD-Art)",
+        "credit": "Victoria and Albert Museum / Wikimedia Commons"
+      },
+      "audio": {
+        "title": "Rag Lalit - NCERT",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Rag_Lalit_-_NCERT.ogg",
+        "direct_audio_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rag_Lalit_-_NCERT.ogg",
+        "license": "CC BY 3.0",
+        "credit": "NCERT Official / Wikimedia Commons",
+        "notes": "Educational demonstration covering bandish, sargam, aroha, avaroha, gat, and gayan time."
+      }
+    },
+    {
+      "id": 2,
+      "prahar_name": "Dwitiya Prahar (Morning)",
+      "time_range": "07:00 - 10:00",
+      "start_hour": 7,
+      "end_hour": 10,
+      "primary_raga": "Bhairavi",
+      "alternate_ragas": ["Bilawal", "Todi", "Jaunpuri", "Asavari"],
+      "thaat": "Bhairavi",
+      "vadi_samvadi": "Ma / Sa",
+      "mood_rasa": "Peaceful, tender, devotional, fresh",
+      "artwork": {
+        "title": "Bhairavi Ragini, Bundi School (Ragamala Series)",
+        "school_origin": "Bundi, Rajasthan, 18th century",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Bundi_Schoo_-_Ragini_Bhairavi,_an_illustration_from_a_Ragamala_serie_-_1974.91.3_-_Yale_University_Art_Gallery.jpg",
+        "direct_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundi_Schoo_-_Ragini_Bhairavi,_an_illustration_from_a_Ragamala_serie_-_1974.91.3_-_Yale_University_Art_Gallery.jpg",
+        "license": "Public Domain",
+        "credit": "Yale University Art Gallery / Wikimedia Commons"
+      },
+      "audio": {
+        "title": "Art song from Meerut - Raga Bhairavi (1931)",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Art_song_from_Meerut_Raga_Bhairavi_(1931).ogg",
+        "direct_audio_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Art_song_from_Meerut_Raga_Bhairavi_(1931).ogg",
+        "license": "Public Domain (1931 archival recording, Musik des Orients)",
+        "credit": "E.M. von Hornbostel collection / Wikimedia Commons",
+        "notes": "1931 archival recording preserved via Musik des Orients."
+      }
+    },
+    {
+      "id": 3,
+      "prahar_name": "Tritiya Prahar (Late Morning to Noon)",
+      "time_range": "10:00 - 13:00",
+      "start_hour": 10,
+      "end_hour": 13,
+      "primary_raga": "Sarang",
+      "alternate_ragas": ["Brindavani Sarang", "Madhyamad Sarang", "Gaud Sarang", "Deshkar"],
+      "thaat": "Kafi",
+      "vadi_samvadi": "Re / Pa",
+      "mood_rasa": "Bright, clear, energetic, midday heat",
+      "artwork": {
+        "title": "Raga Sarang (Deccani Ragamala, 1750 CE, Indian Museum Kolkata)",
+        "school_origin": "Deccan, 1750 CE",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Raga_Sarang.jpg",
+        "direct_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Raga_Sarang.jpg",
+        "license": "CC BY-SA 4.0 (Uploader photograph on Commons)",
+        "credit": "Sneharshidasgupta / Indian Museum, Kolkata / Wikimedia Commons"
+      },
+      "audio": {
+        "title": "Rag Sarang - NCERT",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Rag_Sarang_-_NCERT.ogg",
+        "direct_audio_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rag_Sarang_-_NCERT.ogg",
+        "license": "CC BY 3.0",
+        "credit": "NCERT Official / Wikimedia Commons",
+        "notes": "Educational demonstration covering bandish, sargam, aroha, avaroha, gat, and gayan time."
+      }
+    },
+    {
+      "id": 4,
+      "prahar_name": "Chaturtha Prahar (Afternoon)",
+      "time_range": "13:00 - 16:00",
+      "start_hour": 13,
+      "end_hour": 16,
+      "primary_raga": "Bhimpalasi",
+      "alternate_ragas": ["Multani", "Patdeep", "Dhanashree"],
+      "thaat": "Kafi",
+      "vadi_samvadi": "Ma / Sa",
+      "mood_rasa": "Languid, tender, yearning, afternoon stillness",
+      "artwork": {
+        "title": "Ragamala Painting of Dhanasri Ragini, c. 1690",
+        "school_origin": "Rajasthan (Rajput period), c. 1690",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Indian,_Ragamala_Painting_of_Dhanasri_Ragini,_c._1690.jpg",
+        "direct_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian,_Ragamala_Painting_of_Dhanasri_Ragini,_c._1690.jpg",
+        "license": "Public Domain",
+        "credit": "Kimbell Art Museum / Wikimedia Commons"
+      },
+      "audio": {
+        "title": "Rag Bhimpalasi - NCERT",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Rag_Bhimpalasi_-_NCERT.ogg",
+        "direct_audio_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rag_Bhimpalasi_-_NCERT.ogg",
+        "license": "CC BY 3.0",
+        "credit": "NCERT Official / Wikimedia Commons",
+        "notes": "Educational demonstration covering bandish, sargam, aroha, avaroha, gat, and gayan time."
+      }
+    },
+    {
+      "id": 5,
+      "prahar_name": "Pancham Prahar (Dusk / Evening Twilight)",
+      "time_range": "16:00 - 19:00",
+      "start_hour": 16,
+      "end_hour": 19,
+      "primary_raga": "Puriya Dhanashree",
+      "alternate_ragas": ["Yaman", "Marwa", "Shree", "Dipak"],
+      "thaat": "Purvi",
+      "vadi_samvadi": "Pa / Sa",
+      "mood_rasa": "Serene, romantic, luminous, twilight transition",
+      "artwork": {
+        "title": "Dipak Raga: Folio from a Ragamala Series",
+        "school_origin": "Madhya Pradesh (Raghugarh), 1630–1640",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:MET_DP156152.jpg",
+        "direct_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MET_DP156152.jpg",
+        "license": "CC0 (Public Domain)",
+        "credit": "Metropolitan Museum of Art / Wikimedia Commons"
+      },
+      "audio": {
+        "title": "Rag Puriya Dhanashree - NCERT",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Rag_Puriya_Dhanashree_-_NCERT.ogg",
+        "direct_audio_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rag_Puriya_Dhanashree_-_NCERT.ogg",
+        "license": "CC BY 3.0",
+        "credit": "NCERT Official / Wikimedia Commons",
+        "notes": "Educational demonstration covering bandish, sargam, aroha, avaroha, gat, and gayan time."
+      }
+    },
+    {
+      "id": 6,
+      "prahar_name": "Shashtham Prahar (Early Night)",
+      "time_range": "19:00 - 22:00",
+      "start_hour": 19,
+      "end_hour": 22,
+      "primary_raga": "Kedar",
+      "alternate_ragas": ["Desi", "Jaijaiwanti", "Bihag", "Hameer"],
+      "thaat": "Kalyan",
+      "vadi_samvadi": "Ma / Sa",
+      "mood_rasa": "Romantic, graceful, expansive",
+      "artwork": {
+        "title": "Kedar Ragini from the Chunar Ragamala, c. 1591",
+        "school_origin": "Chunar, India (Shaykh Hatim), c. 1591",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Kedar_Ragini_from_the_Chunar_Ragamala.jpg",
+        "direct_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kedar_Ragini_from_the_Chunar_Ragamala.jpg",
+        "license": "Public Domain (PD-Art)",
+        "credit": "Smithsonian Institution / Wikimedia Commons"
+      },
+      "audio": {
+        "title": "Rag Kedar - NCERT",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Rag_Kedar_-_NCERT.ogg",
+        "direct_audio_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rag_Kedar_-_NCERT.ogg",
+        "license": "CC BY 3.0",
+        "credit": "NCERT Official / Wikimedia Commons",
+        "notes": "Educational demonstration covering bandish, sargam, aroha, avaroha, gat, and gayan time."
+      }
+    },
+    {
+      "id": 7,
+      "prahar_name": "Saptam Prahar (Midnight)",
+      "time_range": "22:00 - 01:00",
+      "start_hour": 22,
+      "end_hour": 1,
+      "primary_raga": "Malkauns",
+      "alternate_ragas": ["Darbari Kanada", "Bageshri", "Adana"],
+      "thaat": "Bhairavi",
+      "vadi_samvadi": "Ma / Sa",
+      "mood_rasa": "Deep, meditative, majestic, introspective",
+      "artwork": {
+        "title": "Malkos Raga: Page from a Dispersed Ragamala Series",
+        "school_origin": "Marwar (Jodhpur), Rajasthan, c. 1640–1650",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:MET_DP156141.jpg",
+        "direct_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MET_DP156141.jpg",
+        "license": "CC0 (Public Domain)",
+        "credit": "Metropolitan Museum of Art / Wikimedia Commons"
+      },
+      "audio": {
+        "title": "Rag Malkauns - NCERT",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Rag_Malkauns_-_NCERT.ogg",
+        "direct_audio_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rag_Malkauns_-_NCERT.ogg",
+        "license": "CC BY 3.0",
+        "credit": "NCERT Official / Wikimedia Commons",
+        "notes": "Educational demonstration covering bandish, sargam, aroha, avaroha, gat, and gayan time."
+      }
+    },
+    {
+      "id": 8,
+      "prahar_name": "Ashtam Prahar (Late Night / Pre-Dawn)",
+      "time_range": "01:00 - 04:00",
+      "start_hour": 1,
+      "end_hour": 4,
+      "primary_raga": "Sohini",
+      "alternate_ragas": ["Chandrakauns", "Gunakali", "Paraj", "Bhatiyar"],
+      "thaat": "Marwa",
+      "vadi_samvadi": "Dha / Ga",
+      "mood_rasa": "Quiet, nocturnal, austere, pre-dawn stillness",
+      "artwork": {
+        "title": "Gunakali Ragini, Ragamala, Bundi, c. 1660",
+        "school_origin": "Bundi, Rajasthan, c. 1660",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Gunakali_ragini,_Ragamala,_Bundi,_ca_1660.jpg",
+        "direct_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gunakali_ragini,_Ragamala,_Bundi,_ca_1660.jpg",
+        "license": "Public Domain",
+        "credit": "Victoria and Albert Museum / Wikimedia Commons"
+      },
+      "audio": {
+        "title": "Sohini Qawwali (1904 sitar solo by Imdad Khan)",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Sohini_Qawwali.ogg",
+        "direct_audio_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sohini_Qawwali.ogg",
+        "license": "Public Domain (1904 recording via Gallica)",
+        "credit": "Imdad Khan / Gallica / Wikimedia Commons",
+        "notes": "1904 archival recording of raga Sohini on sitar by Imdad Khan."
+      }
+    }
+  ],
+  "seasonal_bonus_ragas": [
+    {
+      "season": "Monsoon (Varsha Ritu)",
+      "raga": "Megh Malhar",
+      "artwork": {
+        "title": "Mallar Ragini (A lady playing a vina, personifying a musical mode)",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:4_A_lady_playing_a_vina,_personifying_a_musical_mode_(Mallar_Ragini)_ca_1680_Amber_SF.jpg",
+        "direct_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/4_A_lady_playing_a_vina,_personifying_a_musical_mode_(Mallar_Ragini)_ca_1680_Amber_SF.jpg",
+        "license": "Public Domain",
+        "credit": "Wikimedia Commons"
+      },
+      "audio": {
+        "title": "Rag Megh Malhar - NCERT",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Rag_Megh_Malhar_-_NCERT.ogg",
+        "direct_audio_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rag_Megh_Malhar_-_NCERT.ogg",
+        "license": "CC BY 3.0",
+        "credit": "NCERT Official / Wikimedia Commons",
+        "notes": "Educational demonstration of Rag Megh Malhar."
+      }
+    },
+    {
+      "season": "Spring (Vasant Ritu)",
+      "raga": "Basant",
+      "artwork": {
+        "title": "Vasant Ragini, Ragamala, Rajput, 1770",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Vasant_Ragini,_Ragamala,_Rajput,_1770.jpg",
+        "direct_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vasant_Ragini,_Ragamala,_Rajput,_1770.jpg",
+        "license": "Public Domain",
+        "credit": "Wikimedia Commons"
+      },
+      "audio": {
+        "title": "Rag Basant - NCERT",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Rag_Basant_-_NCERT.ogg",
+        "direct_audio_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rag_Basant_-_NCERT.ogg",
+        "license": "CC BY 3.0",
+        "credit": "NCERT Official / Wikimedia Commons",
+        "notes": "Educational demonstration of Rag Basant."
+      }
+    }
+  ]
+}

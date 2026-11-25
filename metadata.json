@@ -1,0 +1,6 @@
+{
+  "name": "Astha prahar",
+  "description": "A 24-hour Hindustani classical raga clock and Ragamala miniature gallery exploring the eight prahars of day and night.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
